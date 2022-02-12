@@ -1,0 +1,7 @@
+BassAndTreble:Bass="18" Gain="0" Link_Sliders="0" Treble="6"
+Normalize:ApplyGain="1" PeakLevel="-6" RemoveDcOffset="1" StereoIndependent="0"
+Reverb:Delay="0" DryGain="0" HfDamping="100" Reverberance="32" RoomSize="100" StereoWidth="100" ToneHigh="47" ToneLow="100" WetGain="-13" WetOnly="0"
+BassAndTreble:Bass="12" Gain="0" Link_Sliders="0" Treble="6"
+ChangeSpeed:Percentage="-21"
+Normalize:ApplyGain="1" PeakLevel="-1" RemoveDcOffset="1" StereoIndependent="0"
+Compressor:AttackTime="0.54" NoiseFloor="-40" Normalize="1" Ratio="4" ReleaseTime="8.2" Threshold="-18" UsePeak="1"

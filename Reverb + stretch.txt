@@ -1,0 +1,2 @@
+Reverb:Delay="0" DryGain="0" HfDamping="0" Reverberance="64" RoomSize="100" StereoWidth="100" ToneHigh="100" ToneLow="50" WetGain="-3" WetOnly="0"
+Paulstretch:Stretch_Factor="1" Time_Resolution="0.0099999998"

@@ -1,0 +1,3 @@
+Reverse:Use_Preset="<Factory Defaults>"
+Reverb:Delay="0" DryGain="0" HfDamping="100" Reverberance="50" RoomSize="100" StereoWidth="100" ToneHigh="100" ToneLow="100" WetGain="-6" WetOnly="0"
+Reverse:Use_Preset="<Factory Defaults>"

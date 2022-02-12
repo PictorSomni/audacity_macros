@@ -1,0 +1,4 @@
+StereoToMono:Use_Preset="<Factory Defaults>"
+SetProject:Rate="22050"
+Normalize:ApplyGain="1" PeakLevel="-1" RemoveDcOffset="1" StereoIndependent="0"
+ExportWav:

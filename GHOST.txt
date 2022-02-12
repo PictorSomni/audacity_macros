@@ -1,0 +1,5 @@
+Paulstretch:Stretch_Factor="2" Time_Resolution="0.1"
+Reverb:Delay="0" DryGain="0" HfDamping="100" Reverberance="65" RoomSize="100" StereoWidth="100" ToneHigh="100" ToneLow="100" WetGain="-6" WetOnly="0"
+Macro_Poltergeist:
+Compressor:AttackTime="0.54" NoiseFloor="-30" Normalize="1" Ratio="4" ReleaseTime="8.2" Threshold="-20" UsePeak="1"
+Normalize:ApplyGain="1" PeakLevel="-0.1" RemoveDcOffset="1" StereoIndependent="0"

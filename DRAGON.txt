@@ -1,0 +1,5 @@
+Macro_Corrompus:
+Macro_Reverb+stretch:
+Normalize:ApplyGain="1" PeakLevel="-1" RemoveDcOffset="1" StereoIndependent="0"
+Macro_Poltergeist:
+Macro_Loudness:
